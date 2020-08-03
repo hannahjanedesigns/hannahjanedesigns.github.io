@@ -14,15 +14,6 @@
 html,
 body {
     background-color: #ffffff;
-    min-height: 100vh;
-}
-
-@supports (-webkit-touch-callout: none) {
-
-    html,
-    body {
-        min-height: -webkit-fill-available;
-    }
 }
 
 body {
