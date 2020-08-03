@@ -45,6 +45,11 @@ a {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    background-color: #ffffff;
+    background-image: radial-gradient(transparent, #ffffff);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
 }
 
 @supports (-webkit-touch-callout: none) {
