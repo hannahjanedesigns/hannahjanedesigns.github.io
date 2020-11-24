@@ -138,3 +138,13 @@ a {
 .buttons .button:last-child {
     margin-right: 0;
 }
+
+.accreditations {
+    padding: 0 16px 32px 16px;
+}
+
+@media (min-width: 768px) {
+    .accreditations {
+        padding: 0 32px 32px 32px;
+    }
+}
